@@ -6,7 +6,7 @@ Create pull requests for feature request by forking this repository and create i
 
 ```
 "your feature menu point":{
-		"Feature": {
+		"feature": {
 			"title": "your feature title",
 			"Description": "your feature description"
 		}
