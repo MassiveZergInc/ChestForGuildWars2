@@ -1,0 +1,68 @@
+{
+	"menu": {
+    	"item": {
+    		"title": "News",
+    		"status": "Enabled"
+    	},
+    	"item": {
+    		"title": "Map",
+    		"status": "Enabled"
+    	},
+    	"Account": {
+    		"item": {
+    			"title": "Overview",
+    			"status": "Disabled"
+    		},
+    		"item": {
+    			"title": "Character",
+    			"status": "Enabled"
+    		},
+    		"item": {
+    			"title": "Bank",
+    			"status": "Disabled"
+    		},
+    	},
+    	"Friends": {
+    		"item":{
+    			"title": "Contacts",
+    			"status": "Disabled"
+    		}
+    	},
+    	"Gilde": {
+    		"item":{
+    			"title": "Overview",
+    			"status": "Disabled"
+    		}
+    	},
+    	"PvE": {
+    		"item":{
+    			"title": "WorldBoss Timer",
+    			"status": "Disabled"
+    		}
+    	},
+    	"PvP": {
+    		"item":{
+    			"title": "Leaderboard",
+    			"status": "Disabled"
+    		}
+    	},
+    	"WvW": {
+    		"item":{
+    			"title": "Overview",
+    			"status": "Disabled"
+    		}
+    	},
+    	"Tradingpost": {
+    		"item":{
+    			"title": "Watchlist",
+    			"status": "Disabled"
+    		}
+    	},
+    	"Settings and Informations": {
+    		"item":{
+    			"title": "Settings",
+    			"status": "Disabled"
+    		}
+    	}
+	}
+}
