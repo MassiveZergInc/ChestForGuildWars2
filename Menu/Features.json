@@ -1,0 +1,14 @@
+{
+	"Map":{
+		"Feature": {
+			"title": "Custom Routes",
+			"Description": "Add custom routes inside the map."
+		},
+		"Feature": {
+			"title": "Tracking",
+			"Description": "Track your friends inside the map with the app (needs desktop application for LatLng inside the ram)."
+		}
+	}
+
+
+}
