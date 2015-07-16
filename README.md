@@ -1,6 +1,9 @@
 # ChestForGuildWars2
 Chest for Guild Wars 2 Repository
 
+Play Store Link:
+https://play.google.com/store/apps/details?id=massivezerginc.github.io.guildwars2
+
 
 Create pull requests for feature request by forking this repository and create inside the Features Directory a yourfeature_features.json with the following formart:
 
