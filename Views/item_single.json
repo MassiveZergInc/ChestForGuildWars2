@@ -1,5 +1,9 @@
 "item_single":{
 	"view":{
+		"title": "image",
+		"description": "item image maybe inside the toolbar (left of the title)."
+	},
+	"view":{
 		"title": "name",
 		"description": "item name"
 	},
