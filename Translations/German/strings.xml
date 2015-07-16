@@ -1,0 +1,105 @@
+<resources>
+
+    <string name="action_settings">Einstellungen</string>
+    <string name="action_logout">Ausloggen</string>
+
+    <!--Login Screen-->
+    <string name="welcome">Willkommen!</string>
+    <string name="login_info">((Diese App benötigt einen API-Schlüssel von dir, um richtig arbeiten zu können.))</string>
+    <string name="api_key">API-Schlüssel</string>
+    <string name="skip">Überspringen</string>
+    <string name="login">Anmelden</string>
+
+    <!--Welcome Screen-->
+    <string name="done">Fertig</string>
+
+    <string name="check_status_load">Bitte warten&#8230;</string>
+
+    <string name="drawer_news">Neuigkeiten</string>
+
+    <!---Friends-->
+    <string name="drawer_friends">Freunde</string>
+    <string name="drawer_contacts">Kontakte</string>
+    <!--Guild-->
+    <string name="drawer_guild">Gilde</string>
+    <string name="drawer_updates">Aufwertungen</string>
+    <string name="drawer_missions">Missionen</string>
+    <!--PvE-->
+    <string name="drawer_worldboss_timer">Weltboss Timer</string>
+    <string name="drawer_dungeon_tracker">Dungeon Tracker</string>
+    <!--PVP-->
+    <string name="drawer_leaderboards">Rangliste</string>
+    <!--Account-->
+    <string name="drawer_account">Account</string>
+    <string name="drawer_character">Charaktere</string>
+    <!--Trading Post-->
+    <string name="drawer_tradingpost">Handelsposten</string>
+    <string name="drawer_gems_exchange">Edelsteinkurs</string>
+    <string name="drawer_watchlist">Merkliste</string>
+    <string name="drawer_transactions">Transaktionen</string>
+    <!--World versus World-->
+
+    <!--General-->
+    <string name="drawer_overview">Übersicht</string>
+    <string name="drawer_bank">Bank</string>
+    <string name="drawer_map">Karte</string>
+
+    <string name="drawer_settings_informations">Einstellungen und Informationen</string>
+    <string name="drawer_settings">Einstellungen</string>
+    <string name="drawer_about">Über</string>
+
+    <!--Races-->
+    <string name="human">Mensch</string>
+    <string name="asura">Asura</string>
+    <string name="charr">Charr</string>
+    <string name="norn">Norn</string>
+    <string name="sylvari">Sylvari</string>
+
+    <!--Professions-->
+    <string name="thief">Dieb</string>
+    <string name="warrior">Krieger</string>
+    <string name="guardian">Wächter</string>
+    <string name="revenant">Widergänger</string>
+    <string name="engineer">Ingenieur</string>
+    <string name="ranger">Waldläufer</string>
+    <string name="elementalist">Elementarmagier</string>
+    <string name="necromancer">Nekromant</string>
+    <string name="mesmer">Mesmer</string>
+
+    <!--Actions-->
+    <string name="show_details">DETAILS ANZEIGEN</string>
+
+    <string name="time_at">um</string>
+    <string name="wrote_on">geschrieben am</string>
+    <string name="engineer_female">Ingenieurin</string>
+    <string name="equipment">Ausrüstung</string>
+    <string name="female">Weiblich</string>
+    <string name="gender">Geschlecht</string>
+    <string name="general">Allgemein</string>
+    <string name="guardian_female">Wächterin</string>
+    <string name="guild">Gilde</string>
+    <string name="hours">Stunden</string>
+    <string name="infos">Infos</string>
+    <string name="inventory">Inventar</string>
+    <string name="level">Level</string>
+    <string name="male">Männlich</string>
+    <string name="mesmer_female">Mesmer</string>
+    <string name="minutes">Minuten</string>
+    <string name="name">Name</string>
+    <string name="necromancer_female">Nekromantin</string>
+    <string name="profession">Klasse</string>
+    <string name="race">Rasse</string>
+    <string name="ranger_female">Waldläuferin</string>
+    <string name="revenant_female">Widergängerin</string>
+    <string name="seconds">Sekunden</string>
+    <string name="thief_female">Diebin</string>
+    <string name="warrior_female">Kriegerin</string>
+    <string name="action_refresh">Aktualisieren</string>
+    <string name="already_registered">Gerät ist bereits am Server registriert.</string>
+    <string name="age">Alter</string>
+    <string name="clock">Uhr</string>
+    <string name="created">Erstellt</string>
+    <string name="deaths">Tode</string>
+    <string name="elementalist_female">Elementarmagierin</string>
+
+</resources>

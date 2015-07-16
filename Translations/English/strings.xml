@@ -1,0 +1,105 @@
+<resources>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Logout</string>
+
+    <!--Login Screen-->
+    <string name="welcome">Welcome!</string>
+    <string name="login_info">((This app needs an API key from you in order to function correctly.))</string>
+    <string name="api_key">API key</string>
+    <string name="skip">Skip</string>
+    <string name="login">Login</string>
+
+    <!--Welcome Screen-->
+    <string name="done">Finished</string>
+
+    <string name="check_status_load">Please wait&#8230;</string>
+
+    <string name="drawer_news">News</string>
+
+    <!---Friends-->
+    <string name="drawer_friends">Friends</string>
+    <string name="drawer_contacts">Contacts</string>
+    <!--Guild-->
+    <string name="drawer_guild">Guild</string>
+    <string name="drawer_updates">Upgrades</string>
+    <string name="drawer_missions">Missions</string>
+    <!--PvE-->
+    <string name="drawer_worldboss_timer">Worldboss Timer</string>
+    <string name="drawer_dungeon_tracker">Dungeon Tracker</string>
+    <!--PVP-->
+    <string name="drawer_leaderboards">Leaderboards</string>
+    <!--Account-->
+    <string name="drawer_account">Account</string>
+    <string name="drawer_character">Characters</string>
+    <!--Trading Post-->
+    <string name="drawer_tradingpost">Trading Post</string>
+    <string name="drawer_gems_exchange">Gem Exchange</string>
+    <string name="drawer_watchlist">Watchlist</string>
+    <string name="drawer_transactions">Transactions</string>
+    <!--World versus World-->
+
+    <!--General-->
+    <string name="drawer_overview">Overview</string>
+    <string name="drawer_bank">Bank</string>
+    <string name="drawer_map">Map</string>
+
+    <string name="drawer_settings_informations">Settings and Informations</string>
+    <string name="drawer_settings">Settings</string>
+    <string name="drawer_about">About</string>
+
+    <!--Races-->
+    <string name="human">Human</string>
+    <string name="asura">Asura</string>
+    <string name="charr">Charr</string>
+    <string name="norn">Norn</string>
+    <string name="sylvari">Sylvari</string>
+
+    <!--Professions-->
+    <string name="thief">Thief</string>
+    <string name="warrior">Warrior</string>
+    <string name="guardian">Guardian</string>
+    <string name="revenant">Revenant</string>
+    <string name="engineer">Engineer</string>
+    <string name="ranger">Ranger</string>
+    <string name="elementalist">Elementalist</string>
+    <string name="necromancer">Necromancer</string>
+    <string name="mesmer">Mesmer</string>
+
+    <!--Actions-->
+    <string name="show_details">SHOW DETAILS</string>
+
+    <string name="time_at">at</string>
+    <string name="wrote_on">written on</string>
+    <string name="engineer_female">Engineer</string>
+    <string name="equipment">Equipment</string>
+    <string name="female">Female</string>
+    <string name="gender">Gender</string>
+    <string name="general">General</string>
+    <string name="guardian_female">Guardian</string>
+    <string name="guild">Guild</string>
+    <string name="hours">Hours</string>
+    <string name="infos">Infos</string>
+    <string name="inventory">Inventory</string>
+    <string name="level">Level</string>
+    <string name="male">Male</string>
+    <string name="mesmer_female">Mesmer</string>
+    <string name="minutes">Minutes</string>
+    <string name="name">Name</string>
+    <string name="necromancer_female">Necromancer</string>
+    <string name="race">Race</string>
+    <string name="profession">Profession</string>
+    <string name="ranger_female">Ranger</string>
+    <string name="revenant_female">Revenant</string>
+    <string name="seconds">Seconds</string>
+    <string name="thief_female">Thief</string>
+    <string name="warrior_female">Warrior</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="age">Age</string>
+    <string name="clock">o"\'"clock</string>
+    <string name="created">Created</string>
+    <string name="deaths">Deaths</string>
+    <string name="elementalist_female">Elementalist</string>
+    <string name="already_registered">Device is already registered on server.</string>
+
+</resources>
