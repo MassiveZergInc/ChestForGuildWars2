@@ -14,29 +14,43 @@
     			"status": "Disabled"
     		},
     		"item": {
-    			"title": "Character",
+    			"title": "Characters",
     			"status": "Enabled"
     		},
     		"item": {
     			"title": "Bank",
     			"status": "Disabled"
-    		}
-    	},
-    	"Friends": {
+    		},
     		"item":{
-    			"title": "Contacts",
+    			"title": "Friends",
     			"status": "Disabled"
     		}
     	},
-    	"Gilde": {
+    	"Guild": {
     		"item":{
     			"title": "Overview",
+    			"status": "Disabled"
+    		},
+    		"item":{
+    			"title": "Upgrades",
+    			"status": "Disabled"
+    		},
+    		"item":{
+    			"title": "Missions",
+    			"status": "Disabled"
+    		},
+    		"item":{
+    			"title": "Bank",
     			"status": "Disabled"
     		}
     	},
     	"PvE": {
     		"item":{
-    			"title": "WorldBoss Timer",
+    			"title": "Worldboss Timer",
+    			"status": "Disabled"
+    		},
+    		"item":{
+    			"title": "Dungeon Tracker",
     			"status": "Disabled"
     		}
     	},
@@ -50,17 +64,33 @@
     		"item":{
     			"title": "Overview",
     			"status": "Disabled"
+    		},
+    		"item":{
+    			"title": "Map",
+    			"status": "Disabled"
     		}
     	},
     	"Tradingpost": {
     		"item":{
     			"title": "Watchlist",
     			"status": "Disabled"
+    		},
+    		"item":{
+    			"title": "Transactions",
+    			"status": "Disabled"
+    		},
+    		"item":{
+    			"title": "Gem Exchange",
+    			"status": "Disabled"
     		}
     	},
     	"Settings and Informations": {
     		"item":{
     			"title": "Settings",
+    			"status": "Disabled"
+    		},
+    		"item":{
+    			"title": "About",
     			"status": "Disabled"
     		}
     	}
