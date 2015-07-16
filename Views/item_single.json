@@ -1,5 +1,9 @@
 "item_single":{
-	"item":{
+	"view":{
+		"title": "name",
+		"description": "item name"
+	},
+	"view":{
 		"title": "chart",
 		"description": "displays price history since 2012"
 	}
