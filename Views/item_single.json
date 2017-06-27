@@ -1,0 +1,14 @@
+"item_single":{
+	"view":{
+		"title": "image",
+		"description": "item image maybe inside the toolbar (left of the title)."
+	},
+	"view":{
+		"title": "name",
+		"description": "item name"
+	},
+	"view":{
+		"title": "chart",
+		"description": "displays price history since 2012"
+	}
+}
